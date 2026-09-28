@@ -1,0 +1,13 @@
+# N=5 sample (Star-Battle / Queens style regions)
+COLORS
+a a a b b
+a c c b b
+d c c b e
+d d c e e
+d d e e e
+STATE
+. . . . .
+. . . . .
+. . . . .
+. . . . .
+. . . . .

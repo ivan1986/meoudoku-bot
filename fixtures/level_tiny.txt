@@ -1,0 +1,11 @@
+# N=4 sample; solution includes cats at (0,2), (1,0), (2,3), (3,1)
+COLORS
+a a b c
+a a b c
+d d b c
+d d d d
+STATE
+. . . .
+. . . .
+. . . .
+. . . .
